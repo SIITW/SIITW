@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake placeholder</title>
+  <desc id="desc">A dark-mode placeholder shown until the GitHub Action generates the contribution snake animation.</desc>
+  <rect width="900" height="150" rx="18" fill="#0F172A" stroke="#164E63"/>
+  <g fill="#0F766E">
+    <rect x="105" y="65" width="16" height="16" rx="3"/>
+    <rect x="131" y="65" width="16" height="16" rx="3"/>
+    <rect x="157" y="65" width="16" height="16" rx="3"/>
+    <rect x="183" y="65" width="16" height="16" rx="3"/>
+  </g>
+  <circle cx="209" cy="73" r="9" fill="#22D3EE"/>
+  <circle cx="212" cy="70" r="2" fill="#0F172A"/>
+  <text x="540" y="68" text-anchor="middle" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="20" font-weight="700">Contribution Journey</text>
+  <text x="540" y="96" text-anchor="middle" fill="#99F6E4" font-family="Arial, sans-serif" font-size="14">The live animation appears after the first workflow run · 首次运行工作流后显示动态轨迹</text>
+</svg>
