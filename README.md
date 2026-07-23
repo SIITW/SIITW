@@ -104,6 +104,24 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 </div>
 
+## Research Group · 研究团队
+
+I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing on protein design and related computational research at the intersection of artificial intelligence and life science.
+
+我在 **Ren Protein Design Group（RPD Group）** 开展研究，团队聚焦蛋白质设计，以及人工智能与生命科学交叉领域的相关计算研究。
+
+<div align="center">
+
+<a href="https://github.com/RPDGroup">
+  <img src="./assets/dyno-hero.webp" width="420" alt="RPD Group artwork featuring a colorful protein-themed dinosaur" />
+</a>
+
+<br />
+
+[![RPD Group](https://img.shields.io/badge/Visit_RPD_Group-GitHub-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RPDGroup)
+
+</div>
+
 ## Research Snapshot · 研究概览
 
 <div align="center">

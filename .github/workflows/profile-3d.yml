@@ -2,8 +2,8 @@ name: Generate 3D contribution graph
 
 on:
   schedule:
-    # 02:00 Asia/Shanghai (18:00 UTC)
-    - cron: "0 18 * * *"
+    # 02:00 and 14:00 Asia/Shanghai (18:00 and 06:00 UTC)
+    - cron: "0 6,18 * * *"
   workflow_dispatch:
 
 permissions:
