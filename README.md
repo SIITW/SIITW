@@ -113,7 +113,7 @@ I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing o
 <div align="center">
 
 <a href="https://github.com/RPDGroup">
-  <img src="./assets/dyno-hero.webp" width="420" alt="RPD Group artwork featuring a colorful protein-themed dinosaur" />
+  <img src="./assets/dyno-hero.webp" width="320" alt="RPD Group artwork featuring a colorful protein-themed dinosaur" />
 </a>
 
 <br />
