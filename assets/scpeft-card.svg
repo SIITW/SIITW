@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="190" viewBox="0 0 800 190" role="img" aria-labelledby="title desc">
+  <title id="title">scPEFT Reproduction</title>
+  <desc id="desc">Reproduction workflows for parameter-efficient fine-tuning of single-cell large language models.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061A2E"/>
+      <stop offset="1" stop-color="#155E75"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="188" rx="18" fill="url(#bg)" stroke="#22D3EE" stroke-width="2"/>
+  <circle cx="66" cy="62" r="29" fill="#0891B2" opacity=".28"/>
+  <circle cx="58" cy="57" r="8" fill="#99F6E4"/>
+  <circle cx="76" cy="68" r="7" fill="#22D3EE"/>
+  <path d="M63 60 71 65" stroke="#F8FAFC" stroke-width="3"/>
+  <text x="116" y="53" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="27" font-weight="700">scPEFT Reproduction</text>
+  <text x="116" y="82" fill="#A5F3FC" font-family="Arial, sans-serif" font-size="15">Single-cell LLMs · PEFT · Benchmarking</text>
+  <text x="42" y="126" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="16">Reproducible workflows for cell-type identification and perturbation prediction.</text>
+  <rect x="42" y="148" width="154" height="26" rx="13" fill="#164E63"/>
+  <text x="119" y="166" text-anchor="middle" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="12" font-weight="700">COLLABORATIVE DEV</text>
+  <text x="758" y="166" text-anchor="end" fill="#67E8F9" font-family="Arial, sans-serif" font-size="13">coffee19850519 ↗</text>
+</svg>

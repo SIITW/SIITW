@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" role="img" aria-labelledby="title desc">
+  <title id="title">Research snapshot</title>
+  <desc id="desc">AI for Science research profile spanning two publications, two reproducibility projects, and four research pillars.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061A2E"/>
+      <stop offset=".52" stop-color="#0F4C5C"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="208" rx="20" fill="url(#bg)" stroke="#2DD4BF" stroke-width="2"/>
+  <text x="38" y="45" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Research at a Glance · 研究概览</text>
+  <line x1="38" y1="63" x2="762" y2="63" stroke="#99F6E4" stroke-opacity=".35"/>
+  <g text-anchor="middle" font-family="Arial, sans-serif">
+    <text x="120" y="112" fill="#22D3EE" font-size="33" font-weight="700">2</text>
+    <text x="120" y="139" fill="#CBD5E1" font-size="13">NMI Publications</text>
+    <text x="305" y="112" fill="#2DD4BF" font-size="33" font-weight="700">2</text>
+    <text x="305" y="139" fill="#CBD5E1" font-size="13">Reproducibility Projects</text>
+    <text x="495" y="112" fill="#67E8F9" font-size="33" font-weight="700">4</text>
+    <text x="495" y="139" fill="#CBD5E1" font-size="13">Research Pillars</text>
+    <text x="680" y="108" fill="#99F6E4" font-size="23" font-weight="700">AI × BIO</text>
+    <text x="680" y="139" fill="#CBD5E1" font-size="13">Interdisciplinary Focus</text>
+  </g>
+  <text x="400" y="181" text-anchor="middle" fill="#A5F3FC" font-family="Arial, sans-serif" font-size="13">TCR–pMHC · Foundation Models · Molecular Dynamics · Scientific Software</text>
+</svg>

@@ -59,7 +59,11 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 **面向抗原特异性 T 细胞受体结合预测的 PanPep 可复现性、可复用性与可扩展性研究。** 项目系统评估推理和训练层面的复现能力，并扩展至 peptide–TCRα 与 peptide–TCRαβ 识别任务。
 
-[![PanPep Reusability](https://github-readme-stats.vercel.app/api/pin/?username=coffee19850519&repo=PanPep_Reusability&theme=transparent&hide_border=true&title_color=14B8A6&text_color=64748B&icon_color=22D3EE)](https://github.com/coffee19850519/PanPep_Reusability)
+<div align="center">
+
+[![PanPep Reusability](./assets/panpep-card.svg)](https://github.com/coffee19850519/PanPep_Reusability)
+
+</div>
 
 **Role · 身份：** Collaborative developer · 共同开发
 
@@ -73,7 +77,11 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 **面向单细胞大语言模型参数高效微调的复现与基准评估流程。** 项目覆盖多种 scLLM 骨干模型及细胞类型识别、扰动预测等下游任务。
 
-[![scPEFT Reproduction](https://github-readme-stats.vercel.app/api/pin/?username=coffee19850519&repo=scPEFT_reproduction&theme=transparent&hide_border=true&title_color=14B8A6&text_color=64748B&icon_color=22D3EE)](https://github.com/coffee19850519/scPEFT_reproduction)
+<div align="center">
+
+[![scPEFT Reproduction](./assets/scpeft-card.svg)](https://github.com/coffee19850519/scPEFT_reproduction)
+
+</div>
 
 **Role · 身份：** Collaborative developer · 共同开发
 
@@ -96,32 +104,11 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 </div>
 
-## Research Ecosystem · 研究团队
-
-My research group is the **Ren Protein Design Group (RPD Group)**, which develops computational tools for protein design, conformational analysis, and related AI-for-science applications.
-
-我的研究团队是 **Ren Protein Design Group（RPD Group）**，致力于蛋白质设计、构象分析及相关 AI for Science 工具开发。
+## Research Snapshot · 研究概览
 
 <div align="center">
 
-[![RPD Group](https://github-readme-stats.vercel.app/api/pin/?username=RPDGroup&repo=DynoM&theme=transparent&hide_border=true&title_color=14B8A6&text_color=64748B&icon_color=22D3EE)](https://github.com/RPDGroup/DynoM)
-[![RPD Group](https://github-readme-stats.vercel.app/api/pin/?username=RPDGroup&repo=DynoDB&theme=transparent&hide_border=true&title_color=14B8A6&text_color=64748B&icon_color=22D3EE)](https://github.com/RPDGroup/DynoDB)
-
-[Group projects · 团队项目]
-
-[Explore the RPD Group on GitHub →](https://github.com/RPDGroup)
-
-</div>
-
-## GitHub Snapshot · GitHub 数据
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIITW&show_icons=true&theme=transparent&hide_border=true&title_color=14B8A6&text_color=64748B&icon_color=22D3EE&include_all_commits=true&rank_icon=github" alt="Xianyu Wang's GitHub stats" />
-
-<!-- Enable this card after publishing source-code repositories under SIITW:
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIITW&layout=compact&theme=transparent&hide_border=true&title_color=14B8A6&text_color=64748B&langs_count=8" alt="Most used languages" />
--->
+![Research snapshot](./assets/research-snapshot.svg)
 
 </div>
 
