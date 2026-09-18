@@ -4,29 +4,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=780&lines=AI+for+Science+%C3%97+Life+Science;TCR-pMHC+Interaction+%26+Binding;Biological+Foundation+Models+%26+Molecular+Dynamics;Building+reproducible+tools+for+biology)](https://github.com/SIITW)
 
-### 王先煜 · Xianyu Wang
+### Xianyu Wang
 
 **Ph.D. Student · AI for Science Center & School of Life Sciences**  
-**Northeast Normal University · 东北师范大学**
+**Northeast Normal University**
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LJIUkz0AAAAJ&hl=zh-CN)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LJIUkz0AAAAJ&hl=en)
 [![Research Group](https://img.shields.io/badge/RPD_Group-Protein_Design-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RPDGroup)
 [![Profile Views](https://komarev.com/ghpvc/?username=SIITW&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)](https://github.com/SIITW)
 
 </div>
 
-## About Me · 关于我
+## About Me
 
 I am a Ph.D. student at the **AI for Science Center** and the **School of Life Sciences, Northeast Normal University**. My research lies at the intersection of artificial intelligence, bioinformatics, and life science, with a particular focus on computational immunology and biological foundation models.
 
-我是东北师范大学 **AI for Science Center** 与 **生命科学学院** 的博士研究生。研究聚焦人工智能、生物信息学与生命科学的交叉领域，重点关注计算免疫学、生物大模型及可复现的生命科学工具开发。
+- 🧬 **Computational Immunology** — TCR–pMHC binding, interaction, and antigen-specific TCR recognition
+- 🤖 **Biological Foundation Models** — protein language models, single-cell LLMs, and parameter-efficient fine-tuning
+- ⚛️ **Structural & Dynamic Bioinformatics** — molecular dynamics simulation and conformational analysis
+- 🛠️ **Scientific Software** — reproducible pipelines and practical tools for life-science research
 
-- 🧬 **Computational immunology · 计算免疫学** — TCR–pMHC binding, interaction, and antigen-specific TCR recognition
-- 🤖 **Biological foundation models · 生物大模型** — protein language models, single-cell LLMs, and parameter-efficient fine-tuning
-- ⚛️ **Structural & dynamic bioinformatics · 结构与动态生物信息学** — molecular dynamics simulation and conformational analysis
-- 🛠️ **Scientific software · 科研软件** — reproducible pipelines and practical tools for life-science research
-
-## Research Focus · 研究方向
+## Research Focus
 
 <div align="center">
 
@@ -41,23 +39,21 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 </div>
 
-## Tools & Technologies · 技术栈
+## Tools & Technologies
 
 <div align="center">
 
 [![Tools](https://skillicons.dev/icons?i=py,pytorch,r,docker,linux,git,github,anaconda,vscode&perline=9)](https://skillicons.dev)
 
-`Python` · `PyTorch` · `Jupyter` · `R` · `Linux` · `Git` · `Docker` · `Conda` · `Hugging Face` · `GROMACS` · `OpenMM` · `Amber` · `Slurm / HPC`
+Python · PyTorch · Jupyter · R · Linux · Git · Docker · Conda · Hugging Face · GROMACS · OpenMM · Amber · Slurm / HPC
 
 </div>
 
-## Projects I Contribute To · 参与项目
+## Projects I Contribute To
 
 ### PanPep Reusability
 
 **A comprehensive reproducibility, reusability, and extensibility study of PanPep for antigen-specific T-cell receptor binder identification.** The project evaluates inference- and training-level reproducibility and extends the framework to peptide–TCRα and peptide–TCRαβ recognition.
-
-**面向抗原特异性 T 细胞受体结合预测的 PanPep 可复现性、可复用性与可扩展性研究。** 项目系统评估推理和训练层面的复现能力，并扩展至 peptide–TCRα 与 peptide–TCRαβ 识别任务。
 
 <div align="center">
 
@@ -65,9 +61,8 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 </div>
 
-**Role · 身份：** Collaborative developer · 共同开发
-
-**Repository owner · 仓库账号：** [`coffee19850519`](https://github.com/coffee19850519)
+**Role:** Collaborative developer  
+**Repository owner:** [coffee19850519](https://github.com/coffee19850519)
 
 ---
 
@@ -75,19 +70,16 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 **Reproduction and benchmarking workflows for parameter-efficient fine-tuning of single-cell large language models.** The project supports multiple scLLM backbones and downstream tasks, including cell-type identification and perturbation prediction.
 
-**面向单细胞大语言模型参数高效微调的复现与基准评估流程。** 项目覆盖多种 scLLM 骨干模型及细胞类型识别、扰动预测等下游任务。
-
 <div align="center">
 
 [![scPEFT Reproduction](./assets/scpeft-card.svg)](https://github.com/coffee19850519/scPEFT_reproduction)
 
 </div>
 
-**Role · 身份：** Collaborative developer · 共同开发
+**Role:** Collaborative developer  
+**Repository owner:** [coffee19850519](https://github.com/coffee19850519)
 
-**Repository owner · 仓库账号：** [`coffee19850519`](https://github.com/coffee19850519)
-
-## Selected Publications · 代表论文
+## Selected Publications
 
 1. **He, F., Wang, X. & Xu, D.**  
    [*Reusability report: Meta-learning for antigen-specific T cell receptor binder identification*](https://doi.org/10.1038/s42256-026-01236-6).  
@@ -100,15 +92,13 @@ I am a Ph.D. student at the **AI for Science Center** and the **School of Life S
 
 <div align="center">
 
-[![View all publications](https://img.shields.io/badge/View_All_Publications-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LJIUkz0AAAAJ&hl=zh-CN)
+[![View all publications](https://img.shields.io/badge/View_All_Publications-Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LJIUkz0AAAAJ&hl=en)
 
 </div>
 
-## Research Group · 研究团队
+## Research Group
 
 I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing on protein design and related computational research at the intersection of artificial intelligence and life science.
-
-我在 **Ren Protein Design Group（RPD Group）** 开展研究，团队聚焦蛋白质设计，以及人工智能与生命科学交叉领域的相关计算研究。
 
 <div align="center">
 
@@ -122,7 +112,7 @@ I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing o
 
 </div>
 
-## Research Snapshot · 研究概览
+## Research Snapshot
 
 <div align="center">
 
@@ -130,7 +120,7 @@ I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing o
 
 </div>
 
-## 3D Contributions · 3D 贡献图
+## 3D Contributions
 
 <div align="center">
 
@@ -138,7 +128,7 @@ I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing o
 
 </div>
 
-## Contribution Journey · 贡献轨迹
+## Contribution Journey
 
 <div align="center">
 
@@ -150,13 +140,13 @@ I conduct research with the **Ren Protein Design Group (RPD Group)**, focusing o
 
 </div>
 
-## Contact · 联系方式
+## Contact
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Personal_Email-13406182137%40163.com-0F766E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:13406182137@163.com)
 [![NENU Email](https://img.shields.io/badge/NENU_Email-wangxianyu%40nenu.edu.cn-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangxianyu@nenu.edu.cn)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-LJIUkz0AAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LJIUkz0AAAAJ&hl=zh-CN)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-LJIUkz0AAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LJIUkz0AAAAJ&hl=en)
 
 </div>
 
